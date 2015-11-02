@@ -4,6 +4,6 @@ readme for modified themes and panel configuration.
 1.  replace /usr/share/themes/greybird-thick-grip , greybird-thin-grip, bluebird-thick-grip, bluebird-thin-grip with the whisker_mod versions (tar.gz files provided)
 2.  replace contents of /etc/skel/.config/xfce4/panel with panel directory from xfce4-panel-wrap_up_with_whisker-icon.tar.gz
 3.  replace /etc/skel/.config/xfce4/xfconf/xfce4-panel.xml with file from xfce4-panel-wrap_up_with_whisker-icon.tar.gz
-4.  put mxfcelogo-rounded.png from xfce4-panel-wrap_up_with_whisker-icon.tar.gz in /usr/share/icons
+4.  put mxfcelogo-rounded.png from xfce4-panel-wrap_up_with_whisker-icon.tar.gz in /usr/local/share/icons
 5.  see folder clock12or24_rev8 for an additional README.txt re: installation of that script
 6.  make a new user to see changes (because of way xfce4-session saves the panel config, this is the easiest way to see the changes).
